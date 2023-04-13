@@ -1,0 +1,6 @@
+{
+    "mongoURI":"mongodb+srv://abhishek:abhishekwasu@cluster0.gsuubup.mongodb.net/?retryWrites=true&w=majority ",
+    "jwtSecret":"mysecrettoken",
+    "githubClientId":"92e93a664fef0d84b61b",
+    "githubSecret":"1e958a2c15a1bd7d2325b6d477fc126c46f5ae72"
+}
